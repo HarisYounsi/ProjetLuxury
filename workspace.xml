@@ -1,0 +1,179 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="6f9f3c4c-0171-40bf-9c33-7263fe05a0d7" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ComposerSettings">
+    <execution />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="HTML File" />
+        <option value="CSS File" />
+      </list>
+    </option>
+  </component>
+  <component name="GitSEFilterConfiguration">
+    <file-type-list>
+      <filtered-out-file-type name="LOCAL_BRANCH" />
+      <filtered-out-file-type name="REMOTE_BRANCH" />
+      <filtered-out-file-type name="TAG" />
+      <filtered-out-file-type name="COMMIT_BY_MESSAGE" />
+    </file-type-list>
+  </component>
+  <component name="PhpDebugGeneral" listening_started="true">
+    <xdebug_debug_ports port="9000" />
+  </component>
+  <component name="PhpServers">
+    <servers>
+      <server host="localhost" id="77bfefc7-4130-4d96-9716-0cabcd11afc1" name="apa4" />
+    </servers>
+  </component>
+  <component name="PhpWebServerValidation" path_to_validation_script="C:\wamp64\www\projphp1" selected_validation_type="LOCAL" web_path_to_validation_script="http://localhost:80/projphp1" />
+  <component name="PhpWorkspaceProjectConfiguration" interpreter_name="PHP" />
+  <component name="ProjectId" id="1peL8G0wtJf3MLNW9OJ7SQOhCPF" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="DefaultHtmlFileTemplate" value="HTML File" />
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="list.type.of.created.stylesheet" value="CSS" />
+    <property name="node.js.detected.package.eslint" value="true" />
+    <property name="node.js.detected.package.tslint" value="true" />
+    <property name="node.js.path.for.package.eslint" value="project" />
+    <property name="node.js.path.for.package.tslint" value="project" />
+    <property name="node.js.selected.package.eslint" value="(autodetect)" />
+    <property name="node.js.selected.package.tslint" value="(autodetect)" />
+    <property name="nodejs_package_manager_path" value="npm" />
+    <property name="settings.editor.selected.configurable" value="reference.webide.settings.project.settings.php.debug" />
+    <property name="vue.rearranger.settings.migration" value="true" />
+  </component>
+  <component name="ReadonlyStatusHandler">
+    <option name="SHOW_DIALOG" value="false" />
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\wamp64\www\projphp1" />
+      <recent name="C:\wamp64\www\projphp1\panier" />
+      <recent name="C:\wamp64\www\projphp1\Images" />
+      <recent name="C:\wamp64\www\projphp1\css" />
+    </key>
+  </component>
+  <component name="RunManager">
+    <configuration name="config1" type="PhpWebAppRunConfigurationType" factoryName="PHP Web Application" singleton="false" server_name="apa4" start_url="/projphp1">
+      <method v="2" />
+    </configuration>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="6f9f3c4c-0171-40bf-9c33-7263fe05a0d7" name="Default Changelist" comment="" />
+      <created>1615538448762</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1615538448762</updated>
+      <workItem from="1615538450179" duration="6435000" />
+      <workItem from="1615815256451" duration="762000" />
+      <workItem from="1615817429355" duration="3313000" />
+      <workItem from="1616418578980" duration="2170000" />
+      <workItem from="1616506383689" duration="3816000" />
+      <workItem from="1616855943601" duration="5956000" />
+      <workItem from="1617106442244" duration="10443000" />
+      <workItem from="1617118997191" duration="927000" />
+      <workItem from="1617713039212" duration="11206000" />
+      <workItem from="1618229379158" duration="5457000" />
+      <workItem from="1618316272313" duration="14398000" />
+      <workItem from="1618834819994" duration="6918000" />
+      <workItem from="1618921574309" duration="5119000" />
+      <workItem from="1619442948724" duration="7165000" />
+      <workItem from="1619525140754" duration="3416000" />
+      <workItem from="1620051925928" duration="2506000" />
+      <workItem from="1620132774950" duration="8205000" />
+      <workItem from="1620648530888" duration="9970000" />
+      <workItem from="1620734988136" duration="11166000" />
+      <workItem from="1621254045643" duration="9513000" />
+      <workItem from="1621340196227" duration="2679000" />
+      <workItem from="1621343192987" duration="6196000" />
+      <workItem from="1621350392177" duration="3765000" />
+      <workItem from="1621864613385" duration="6213000" />
+      <workItem from="1621872836263" duration="1140000" />
+      <workItem from="1621946664982" duration="4690000" />
+      <workItem from="1622464445405" duration="4419000" />
+      <workItem from="1622493106108" duration="1850000" />
+      <workItem from="1622550906824" duration="5413000" />
+      <workItem from="1622906903999" duration="976000" />
+      <workItem from="1623849297384" duration="39000" />
+      <workItem from="1624713760470" duration="4525000" />
+      <workItem from="1624811162388" duration="287000" />
+      <workItem from="1624877927926" duration="35000" />
+      <workItem from="1624877981102" duration="495000" />
+      <workItem from="1625051517564" duration="7591000" />
+      <workItem from="1625133185118" duration="16810000" />
+      <workItem from="1625483958994" duration="13636000" />
+      <workItem from="1626165405853" duration="919000" />
+      <workItem from="1626248267806" duration="595000" />
+      <workItem from="1626466085217" duration="123000" />
+      <workItem from="1626466306346" duration="48000" />
+      <workItem from="1626536660220" duration="2494000" />
+      <workItem from="1626948157302" duration="7443000" />
+      <workItem from="1627654338662" duration="1315000" />
+      <workItem from="1627900675481" duration="420000" />
+      <workItem from="1627901191723" duration="2536000" />
+      <workItem from="1628099037383" duration="7000" />
+      <workItem from="1629800622540" duration="3783000" />
+      <workItem from="1629805328491" duration="3995000" />
+      <workItem from="1629890630566" duration="3972000" />
+      <workItem from="1630083263873" duration="7158000" />
+      <workItem from="1630238279405" duration="25978000" />
+      <workItem from="1630592866427" duration="7229000" />
+      <workItem from="1630624372657" duration="14046000" />
+      <workItem from="1631128009884" duration="536000" />
+      <workItem from="1631129022279" duration="1314000" />
+      <workItem from="1648564755051" duration="289000" />
+      <workItem from="1649082097110" duration="188000" />
+      <workItem from="1649083730314" duration="1996000" />
+      <workItem from="1649154371144" duration="44000" />
+      <workItem from="1649164648948" duration="84000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="php">
+          <url>file://$PROJECT_DIR$/audirs6.php</url>
+          <option name="timeStamp" value="4" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="php">
+          <url>file://$PROJECT_DIR$/audirs6.php</url>
+          <line>1</line>
+          <option name="timeStamp" value="5" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="php">
+          <url>file://$PROJECT_DIR$/audirs6.php</url>
+          <line>27</line>
+          <option name="timeStamp" value="6" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+    <watches-manager>
+      <configuration name="PhpWebAppRunConfigurationType">
+        <watch expression="$_SESSION[&quot;ID&quot;]" language="PHP" />
+        <watch expression="$row" />
+      </configuration>
+    </watches-manager>
+  </component>
+</project>

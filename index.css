@@ -1,0 +1,114 @@
+.container{
+    position: relative;
+}
+
+hr {
+    border: 1px solid #e3e3e3;
+    margin-bottom: 20px;
+    margin-top: 20px;
+}
+
+.bloc-text{
+    position: absolute;
+    text-decoration: none;
+    text-align: center;
+    bottom: 20px;
+    right: 30px;
+    left: 30px;
+    background-color: black;
+    font-size: 20px;
+    opacity: 70%;
+    color: white;
+    padding: 20px 370px 20px 370px;
+}
+
+.info{
+    text-align: center;
+    font-family: "Montserrat";
+    font-weight: 300;
+    font-size: 35px;
+    padding-bottom: 30px;
+}
+
+.information{
+    text-align: center;
+    margin: 0;
+    padding: 0;
+    color: black;
+    font-family: "Montserrat";
+    font-weight: 400;
+    font-size: 25px;
+}
+
+.brands {
+    width: 100%;
+    padding-bottom: 25px
+}
+
+.brands_slider_container {
+    height: 130px;
+    border: solid 1px white;
+    padding-left: 97px;
+    padding-right: 97px;
+    background: #fff
+}
+
+.brands_slider {
+    height: 100%;
+    margin-top: 40px
+}
+
+
+.brands_nav {
+    position: absolute;
+    top: 50%;
+    -webkit-transform: translateY(-50%);
+    -moz-transform: translateY(-50%);
+    -ms-transform: translateY(-50%);
+    -o-transform: translateY(-50%);
+    transform: translateY(-50%);
+    padding: 5px;
+    cursor: pointer
+}
+
+.brands_nav i {
+    color: #e5e5e5;
+    -webkit-transition: all 200ms ease;
+    -moz-transition: all 200ms ease;
+    -ms-transition: all 200ms ease;
+    -o-transition: all 200ms ease;
+    transition: all 200ms ease
+}
+
+.brands_nav:hover i {
+    color: #676767
+}
+
+/* position fleches */
+
+.brands_prev {
+    left: 40px
+}
+
+.brands_next {
+    right: 40px
+}
+
+
+.blue {
+    width: 33%;
+    display:inline-block;
+}
+
+.bloc-text2{
+    width: 100%;
+    position: relative;
+    text-decoration: none;
+    text-align: center;
+    bottom: 43px;
+    background-color: black;
+    font-size: 20px;
+    opacity: 70%;
+    color: white;
+    padding: 15px 20px 15px 20px;
+}

@@ -1,0 +1,64 @@
+/*Style header*/
+.menu{
+    background: #FFE600;
+    width: 65%;
+    height: 66px;
+    line-height: 66px;
+    margin : auto;
+}
+/*Style logo*/
+.logo{
+    text-decoration: none;
+    color: black;
+    font-family: "Montserrat";
+    font-weight: 300;
+    font-size: 25px;
+}
+/*Style des liens au milieu*/
+.m-link{
+    text-decoration: none;
+    color: black;
+    text-transform: uppercase;
+    font-family: "Lato";
+    font-weight: 600;
+    font-size: 15px;
+    padding: 0;
+    margin: 0 10px;
+    transition:all 0.1s ease-in-out;
+}
+
+/* animation quand on passe la souris sur les liens */
+.m-link:hover{
+    padding-bottom: 1.5px;
+    border-bottom: 1px solid #000000;
+}
+
+/*style des 2 icones a droite*/
+.auth{
+    text-decoration: none;
+    color: black;
+    font-weight: 500;
+    font-size: 20px;
+    padding: 0;
+    margin: 0 5px;
+}
+
+
+/* style panier */
+.panier-icone {
+    position: relative;
+}
+
+.panier-icone .fa-shopping-cart:before{
+    color: #c63037;
+}
+
+.panier-icone span{
+    position: absolute;
+    width: 100%;
+    font-size: 18px;
+    font-weight: bold;
+    left: 0;
+    margin-top: -6px;
+    text-align: center;
+}

@@ -1,0 +1,81 @@
+*, ::before, ::after{
+    box-sizing: border-box;
+    margin: 0;
+    padding: 0;
+}
+
+body{
+    font-family: Montserrat , sans-serif;
+    display: flex;
+    flex-direction: column;
+    justify-content: flex-start;
+}
+
+.contenu-footer{
+    display: flex;
+    font-size: 15px;
+    padding: 50px 0 100px;
+}
+
+.bloc{margin: 0px auto;}
+
+.footer-contact h3,
+.footer-service h3,
+.footer-clients h3{
+    font-size: 25px;
+    padding-bottom: 25px;
+}
+
+.footer-contact p{
+    padding: 5px 0;
+}
+
+.liste-question,
+.liste-Mentions,
+.liste-clients{
+    list-style-type: none;
+}
+.liste-question li{padding: 2px 0;
+}
+.liste-question a {
+    text-decoration: none;
+    color: white;
+}
+
+.liste-question a:link {text-decoration:none;}
+.liste-question a:visited {color: white;text-decoration:none;}
+.liste-question a:hover{text-decoration:underline;}
+
+.liste-Mentions a {
+    text-decoration: none;
+    color: white;
+}
+
+.liste-Mentions a:link {text-decoration:none;}
+.liste-Mentions a:visited {color: white;text-decoration:none;}
+.liste-Mentions a:hover{text-decoration:underline;}
+
+.liste-Mentions li{padding: 2px 0;}
+
+.liste-clients a:link {color: white;text-decoration:none;}
+.liste-clients a:visited {color: white;text-decoration:none;}
+.liste-clients a:hover{text-decoration:underline;}
+
+.liste-clients li{padding: 2px 0;}
+
+footer{
+    flex-shrink: 0;
+    background: black;
+    color: white;
+}
+
+.logofooter {
+    padding-bottom: 30px;
+    text-decoration: none;
+    margin: 0;
+    padding: 0;
+    color: white;
+    font-family: "Montserrat";
+    font-weight: 300;
+    font-size: 35px;
+}
